@@ -6,7 +6,7 @@ import { useRoute, useLocation } from 'wouter'
 import getUuid from 'uuid-by-string'
 
 const GOLDENRATIO = 1.61803398875
-
+ 
 export default function App({ images }) {
   return (
     <>
